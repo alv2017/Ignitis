@@ -42,7 +42,7 @@ app.layout = html.Div([
                     max_date_allowed=date(2020, 9, 30),
                     initial_visible_month=date(2020, 9, 1),
                     start_date = date(2020, 9, 1),
-                    end_date=date(2020, 9, 30)
+                    end_date=date(2020, 10, 1)
                 ),   
             ],
             
